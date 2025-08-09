@@ -1,6 +1,6 @@
 # Easter-egg-2
 
--The task was to replicate this bento grid given by THE Aswin Asok using flexbox css.
+-The task was to replicate this bento grid given using flexbox css and also to make it responsive.
 
 ---
 
