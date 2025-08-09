@@ -152,6 +152,7 @@ body{
         width: 100%;
         height: auto;
         padding: 15px;
+        justify-content: space-around;
     }
 
     .container1 {
@@ -159,13 +160,13 @@ body{
         height: auto;
         width: 100%;
         padding: 15px;
-        gap: 20px;
     }
 
     .container2 {
         height: auto;
         width: 100%;
-        padding: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 
     .container3 {
@@ -177,17 +178,16 @@ body{
         width: 100%;
         flex: 2; 
         height: auto;
+
     }
 
     .col-right {
         flex-direction: row;
-        padding: 45px;
-        gap: 20px;
+        gap: 10px;
     }
 
     .col-left,.col-middle,.coll{
         flex-direction: row;
-        gap: 20px;
     }
     
 
